@@ -1,18 +1,12 @@
-# Getting Started with Create React App
+# Mini Facebook React App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a fully responsive social media web application built using React.js and material UI. The app is look a lot like user interface of facebook app. the greatest focus in designing this app was training on using material Ui 
 
-## Available Scripts
+## 🌟 [Live Website](https://social-mediaa-react-app.netlify.app/) 🌟
 
-In the project directory, you can run:
+## Screenshot
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 

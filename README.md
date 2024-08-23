@@ -5,12 +5,17 @@ This is a fully responsive social media web application built using React.js and
 ## 🌟 [Live Website](https://social-mediaa-react-app.netlify.app/) 🌟
 
 ## Screenshot
-# Light Mode
+
+### Light Mode
 ![Light Mode](screenshots/light-mode.png)
-# Dark Mode
+
+### Dark Mode
 ![Dark Mode](screenshots/dark-mode.png)
-# Add Post
+
+### Add Post
 ![Add Post](screenshots/add-post.png)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\

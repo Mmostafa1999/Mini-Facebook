@@ -6,10 +6,11 @@ This is a fully responsive social media web application built using React.js and
 
 ## Screenshot
 
-![Signin Page](screenshots/light-mode.png)
+![Light Mode](screenshots/light-mode.png)
 
-![Home Page](screenshots/homepage.png)
+![Dark Mode](screenshots/dark-mode.png)
 
+![Add Post](screenshots/add-post.png)
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
